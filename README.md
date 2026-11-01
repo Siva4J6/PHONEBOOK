@@ -49,19 +49,16 @@ A menu-driven phone book application written in **C**. It uses a **singly linked
    ```bash
    make
    ```
-
 4. Run it:
 
    ```bash
    ./phonebook
    ```
-
 5. To remove the generated object files and executable:
 
    ```bash
    make clean
    ```
-
 ## Menu Options
 
 | Option | Action |
