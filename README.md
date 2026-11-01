@@ -99,6 +99,7 @@ This project demonstrates:
 - Fix and test edge cases in contact loading, searching, editing, and saving.
 - Add safer, portable input handling.
  
-  Conclusion
+  Conclusion:
+  
 The Phone Book App is a C programming project that efficiently manages contact information using a singly linked list and file handling. It allows users to create, display, search, edit, and delete contacts through a simple menu-driven interface. The application also provides functionality to save contact details in a file and load them when the program starts, helping maintain data between sessions.
 This project helps develop practical knowledge of C programming concepts such as structures, pointers, dynamic memory allocation, linked lists, and file operations. Overall, the Phone Book App demonstrates how data structures and file handling can be combined to build a simple and useful contact management system.
